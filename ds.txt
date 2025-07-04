@@ -1,0 +1,14 @@
+git=>
+1)git clone gitlink
+2)git add filename => single file
+git add . => multiple files
+3)
+git commit -m "added new file"
+4) git push origin main
+
+git status
+
+-m => add message
+U => untracked
+A => added
+M => modified
